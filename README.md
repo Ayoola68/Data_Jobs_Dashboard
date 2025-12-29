@@ -70,19 +70,19 @@ This is the deep-dive page. From the main dashboard, you can drill through to th
 ## Key Findings
 
 ### Top Hiring Job Title
-Job roles such as Data Engineer, Data Analyst, Data Scientist, and Senior Data Engineer dominate the dataset, representing the highest number of listings.
+   Job roles such as Data Engineer, Data Analyst, Data Scientist, and Senior Data Engineer dominate the dataset, representing the highest number of listings.
 
-- Salary Distribution Patterns:
-    Senior Data Scientist role command the highest salary ranges, while entry-level and DAta analyst positions show comparatively lower median compensation.
+### Salary Distribution Patterns:
+   Senior Data Scientist role command the highest salary ranges, while entry-level and DAta analyst positions show comparatively lower median compensation.
 
-- Geographical Hotspots:
-    Major countries such as United State, India, United Kingdow, and France emerge as centres of employment concentration, confirming strong urban tech ecosystems.
+### Geographical Hotspots:
+   Major countries such as United State, India, United Kingdow, and France emerge as centres of employment concentration, confirming strong urban tech ecosystems.
 
-- Top Platform Used:
-    Commonly used platdorm for posting include LinkedIn, Indeed, Bebee, ZipRecruiter, and Recruit.net.
+### Top Platform Used:
+   Commonly used platdorm for posting include LinkedIn, Indeed, Bebee, ZipRecruiter, and Recruit.net.
 
-- Remote-Work Trends:
-    A measurable proportion of listings offer hybrid or fully remote positions, indicating sector-wide flexibility.
+### Remote-Work Trends:
+   A measurable proportion of listings offer hybrid or fully remote positions, indicating sector-wide flexibility.
 
 ## Recommendations
 
