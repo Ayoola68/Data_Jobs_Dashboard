@@ -84,6 +84,8 @@ This is the deep-dive page. From the main dashboard, you can drill through to th
 ### Remote-Work Trends:
    A measurable proportion of listings offer hybrid or fully remote positions, indicating sector-wide flexibility.
 
+---
+
 ## Recommendations
 
 Based on the analysed evidence:
